@@ -11,7 +11,7 @@ st.set_page_config(page_title="CsPbI3 Thermodynamic Suite", layout="wide")
 
 st.title("🔬 CsPbI$_3$ Thermodynamic & Phase Predictor Suite")
 st.markdown("""
-**Lead Developer:** Shoyombo Babatunde. H | **Project Supervisor:** Dr. A. D. Adewoyin   
+**Lead Developer:** Babatunde H. Shoyombo | **Project Supervisor:** Dr. A. D. Adewoyin   
 **Institution:** University of Lagos, Nigeria.  
 An interactive, Machine Learning-derived thermodynamic dashboard for predicting the phase stability of CsPbI$_3$ under thermal, strain, and nanoscale surface perturbations.
 """)
@@ -133,13 +133,13 @@ with tab3:
 with tab4:
     st.header("📄 Copyright, Citation & Methodology")
     st.markdown("""
-    **Developers:** Shoyombo Babatunde. H. and Dr. A. D. Adewoyin  
+    **Developers:** Babatunde H. Shoyombo and Dr. A. D. Adewoyin  
     **License:** MIT Open Source License  
     
-    This application is the result of a Master's Thesis investigating the thermodynamic degradation of CsPbI$_3$.
+    This application is the result of a Master's Thesis investigating the thermodynamic degradation of CsPbI$_3$. Data was generated using Quantum ESPRESSO (DFT) and MACE-MP-0 Machine Learning potentials coupled with Phonopy.
     
     ### 📝 How to Cite this Software:
     If you use this tool to generate graphs or data for an academic publication, please cite:
-    > **Shoyombo, B. H., & Dr.Adewoyin, A. D., (2026). *CsPbI3 Thermodynamic & Phase Predictor Suite (v1.0)*. DOI: 10.5281/zenodo.23370541**
-    """)
     
+    > **Shoyombo, B. H., & Adewoyin, A. D. (2026). *CsPbI3 Thermodynamic & Phase Predictor Suite (v1.0)*. DOI: 10.5281/zenodo.23370541**
+    """)
