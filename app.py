@@ -140,6 +140,6 @@ with tab4:
     
     ### 📝 How to Cite this Software:
     If you use this tool to generate graphs or data for an academic publication, please cite:
-    > **Shoyombo, B. H., & Dr.Adewoyin. A. D., (2026). *CsPbI3 Thermodynamic & Phase Predictor Suite (v1.0)*. DOI: 10.5281/zenodo.23370541**
+    > **Shoyombo, B. H., & Dr.Adewoyin, A. D., (2026). *CsPbI3 Thermodynamic & Phase Predictor Suite (v1.0)*. DOI: 10.5281/zenodo.23370541**
     """)
-    """)
+    
