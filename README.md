@@ -5,12 +5,12 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://babatunde-shoyombo-cspbi3-predictor.streamlit.app/)
 
 **Developers:** Babatunde H. Shoyombo & Dr. A. D. Adewoyin  
-**Institution:** [Insert Your University Name]  
+**Institution:** University of Lagos, Nigeria.  
 
-This repository contains the computational workflow, Machine Learning validation scripts, and the source code for the **CsPbI$_3$ Phase Predictor**—an interactive web application developed as part of a Master's Thesis investigating the thermodynamic degradation of all-inorganic perovskite solar cells.
+This repository contains the computational workflow, Machine Learning validation scripts, and the source code for the **CsPbI3 Phase Predictor**—an interactive web application developed as part of a Master's Thesis investigating the thermodynamic degradation of all-inorganic perovskite solar cells.
 
 ## 📖 Project Overview
-Cesium Lead Iodide (CsPbI$_3$) is a highly promising material for next-generation solar cells. However, its photoactive "black" perovskite phases ($\alpha, \beta, \gamma$) spontaneously degrade into an inactive "yellow" non-perovskite phase ($\delta$) at room temperature. 
+Cesium Lead Iodide CsPbI3) is a highly promising material for next-generation solar cells. However, its photoactive "black" perovskite phases ($\alpha, \beta, \gamma$) spontaneously degrade into an inactive "yellow" non-perovskite phase ($\delta$) at room temperature. 
 
 Simulating this degradation using traditional Ab Initio Molecular Dynamics (AIMD) requires prohibitive supercomputing resources. This project overcomes that hardware bottleneck by deploying a **Hybrid First-Principles and Machine Learning (ML)** methodology:
 1. **Density Functional Theory (DFT):** Used to establish a rigorous 0 K energetic baseline.
